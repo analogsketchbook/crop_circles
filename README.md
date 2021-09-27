@@ -10,7 +10,7 @@ Blender Add-on for creating circular patterns with grease pencil objects
 
 # Running
 
-1.Crop Circles will run in either 2D Animation mode or General mode but looks better in 2D animation. So launch Blender and choose 2D animation mode.
+1. Crop Circles will run in either 2D Animation mode or General mode but looks better in 2D animation. So launch Blender and choose 2D animation mode.
 2. In the upper left change from Draw mode to Object mode.
 3. Go to Add->Crop Circle to create a circle.
 4. Adjust the crop circle's options with the properties menu in the lower left. You can adjust these interactively until you click somewhere else in the UI. 
