@@ -3,9 +3,9 @@ Blender Add-on for creating circular patterns with grease pencil objects
 
 # Installation
 
-1. Download this repository as a ZIP file.
+1. Download this repository as a ZIP file but do not unzip the file.
 2. Launch Blender and go to Edit->Preferences...
-3. Click the Install but and navigate to your ZIP file.
+3. Click the Install button and navigate to your ZIP file.
 4. If necessary, check the Enable checkbox next to the Crop Circles Add-on name.
 
 # Running
